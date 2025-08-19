@@ -1,5 +1,6 @@
 
-![Banner](banner_github.png)
+!![477AD371-E757-4164-9653-F0FAA02B3128_1_201_a](https://github.com/user-attachments/assets/00128246-fd8e-4c1d-b1cc-174de571ba74)
+[](banner_github.png)
 
 # 📊 Análise de Vagas Front-end – Brasil (Agosto/2025)
 
